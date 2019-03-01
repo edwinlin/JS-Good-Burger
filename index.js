@@ -3,7 +3,9 @@ const getURL = `http://localhost:3000/burgers`
 document.addEventListener("DOMContentLoaded", () => {
   //Implement Your Code Here
 	const burgerMenu = document.getElementById('burger-menu');
+	//submit doesn't fire if (line 9) 'click' is listening
 	burgerMenu.addEventListener('submit', handleEditBurgerImage);
+	//forgot to comment out lines 53-57, for clicking submit
 	burgerMenu.addEventListener('click', handleBurgerAddDeleteEdit);
 
 
