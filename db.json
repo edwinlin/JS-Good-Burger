@@ -1,16 +1,70 @@
-{
-  "burgers": [
+{"burgers":
+  [
     {
-      "name": "Whopper",
-      "description": "BK",
-      "image": "https://www.seriouseats.com/recipes/images/2015/07/20150728-homemade-whopper-food-lab-35-1500x1125.jpg",
-      "id": 10
+      "id": 1,
+      "name": "Good Burger",
+      "description": "What a Good Burger!",
+      "image": "https://www.lovelesscafe.com/uploads/recipeimages/BBQBaconBurger-web.jpg"
     },
     {
-      "name": "",
-      "description": "",
-      "image": "https://cookieandkate.com/images/2013/05/sweet-potato-black-bean-veggie-burgers-1.jpg",
-      "id": 12
+      "id": 2,
+      "name": "Sal's Burger",
+      "description": "Burger of Sal's!",
+      "image": "http://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/umami-bomb-burgers-ck.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sloppy Beef",
+      "description": "Sloppimus Maximus",
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2011/06/Sloppy-Joes-Plus-sandwich.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Glamburger",
+      "description": "Bling Bling Burger",
+      "image": "https://i.ytimg.com/vi/zrnHrX_NCbY/hqdefault.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Burgér",
+      "description": "Burgér fróm Fránce",
+      "image": "https://assets3.thrillist.com/v1/image/937699/size/tmg-article_default_mobile.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Le Magnifique",
+      "description": "C'est la magnifique!",
+      "image": "https://wswd-wordpress-production.s3.amazonaws.com/content/uploads/2017/01/Delmonicos.jpg"
+    },
+    {
+      "id": 7,
+      "name": "HamBougie",
+      "description": "Not Bad, But Bougie",
+      "image": "https://timedotcom.files.wordpress.com/2016/05/160528_gal_burger_blingburger.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Green Eggs and Hamburger",
+      "description": "Cooked by Sam",
+      "image": "https://stupiddope.com/wp-content/uploads/2016/05/mcdonalds-green-angry-birds-burger-01.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Veggie Burger",
+      "description": "Not Really a Burger",
+      "image": "https://cookieandkate.com/images/2013/05/sweet-potato-black-bean-veggie-burgers-recipe-0.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Spinach",
+      "description": "Ew.",
+      "image": "https://www.organicfacts.net/wp-content/uploads/spinach.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Cow-abunga",
+      "description": "Mooooo",
+      "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
     }
   ]
 }
